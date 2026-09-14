@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3B30&center=true&vCenter=true&width=600&height=120&lines=Cybersecurity+Student;Ethical+Hacker;Bug+Bounty+Hunter;Red+Team+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3B30&center=true&vCenter=true&width=600&height=120&lines=Cybersecurity+Student;Pentration+tester;Bug+Bounty+Hunter;Red+Team+Enthusiast" />
 
 <br>
 
@@ -30,7 +30,7 @@
 | 🎯 **Role** | Cybersecurity Student • Ethical Hacker • Developer |
 | 🛡️ **Focus** | Offensive Security • Web Security • OSINT |
 | 🌐 **Networking** | TCP/IP • DNS • HTTP/HTTPS |
-| 🐧 **OS** | Kali Linux • Linux • Windows |
+| 🐧 **OS** | Kali Linux • Linux • Black Arch • Windows |
 | 💻 **Languages** | Python • Bash • Java • JavaScript • C |
 | 🔎 **Security Tools** | Nmap • Burp Suite • Wireshark • Metasploit |
 | 🎓 **Education** | Your University |
