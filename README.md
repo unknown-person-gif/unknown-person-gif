@@ -1,36 +1,4 @@
-<div align="center">
 
-<!-- PROFESSIONAL BANNER -->
-
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Professional Banner"/>
-
-# 👋 Hi, I'm BHARATH KUMAR
-
-### 💻 Developer • Cybersecurity Enthusiast • Open Source Learner
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_WEBSITE_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blue)
-
-</div>
-
----
-
-# 🧬 About Me
-
-<table>
-<tr>
-<td width="50%">
 
 ### 👨‍💻 Who Am I?
 
