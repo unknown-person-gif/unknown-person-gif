@@ -95,5 +95,60 @@
 
 </div>
 
+<div align="center">
+
+<hr>
+
+<br>
+
+# `B H A R A T H`
+
+### Cybersecurity Student • Ethical Hacker • Developer
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3B30&center=true&vCenter=true&width=600&height=120&lines=Cybersecurity+Student;Ethical+Hacker;Bug+Bounty+Hunter;Red+Team+Enthusiast" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=ff3b30&style=for-the-badge" />
+
+<br>
+<br>
+
+</div>
+
+---
+
+## 🛠️ Who Am I
+
+| 🔹 | Information |
+|---|---|
+| 🎯 **Role** | Cybersecurity Student • Ethical Hacker • Developer |
+| 🛡️ **Focus** | Offensive Security • Web Security • OSINT |
+| 🌐 **Networking** | TCP/IP • DNS • HTTP/HTTPS |
+| 🐧 **OS** | Kali Linux • Linux • Windows |
+| 💻 **Languages** | Python • Bash • Java • JavaScript • C |
+| 🔎 **Security Tools** | Nmap • Burp Suite • Wireshark • Metasploit |
+| 🎓 **Education** | Your University |
+| 📍 **Location** | India |
+
+---
+
+<div align="center">
+
+## `>_ TERMINAL`
+
+```text
+┌──(bharath㉿kali)-[~]
+└─$ whoami
+
+Cybersecurity Student
+
+┌──(bharath㉿kali)-[~]
+└─$ cat mission.txt
+
+Learn → Build → Break → Analyze → Secure
+
 
 
