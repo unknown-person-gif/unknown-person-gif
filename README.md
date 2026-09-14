@@ -6,13 +6,13 @@
 
 <br>
 
-# `B H A R A T H`
+# `B H A R A T H K U M A R `
 
-### Cybersecurity Student • Ethical Hacker • Developer
+### Cybersecurity Student • Penetration tester • Developer
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3B30&center=true&vCenter=true&width=600&height=120&lines=Cybersecurity+Student;Ethical+Hacker;Bug+Bounty+Hunter;Red+Team+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3B30&center=true&vCenter=true&width=600&height=120&lines=Cybersecurity+Student;Penetration+tester ;Bug+Bounty+Hunter;Red+Team" />
 
 <br>
 
