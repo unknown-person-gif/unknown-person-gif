@@ -79,6 +79,7 @@ Cybersecurity Student
 
 Learn → Build → Break → Analyze → Secure
 ```
+thats the fucking people could did to me
 
 
 
