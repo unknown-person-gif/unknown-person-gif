@@ -57,9 +57,9 @@
 | 🛡️ **Focus** | Offensive Security • Web Security • OSINT |
 | 🌐 **Networking** | TCP/IP • DNS • HTTP/HTTPS |
 | 🐧 **OS** | Kali Linux • Linux • Black Arch • Windows |
-| 💻 **Languages** | Python • Bash • Java • JavaScript • C |
+| 💻 **Languages** | Python • Bash • JavaScript • C |
 | 🔎 **Security Tools** | Nmap • Burp Suite • Wireshark • Metasploit |
-| 🎓 **Education** | Your University |
+| 🎓 **Education** |  |
 | 📍 **Location** | India |
 
 ---
@@ -79,7 +79,7 @@ Cybersecurity Student
 
 Learn → Build → Break → Analyze → Secure
 ```
-thats the fucking people could did to me
+thats the fucking people could did to me always disapploints me :(
 
 
 
