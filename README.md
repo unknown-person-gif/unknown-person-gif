@@ -78,7 +78,7 @@ Cybersecurity Student
 
 Learn → Build → Break → Analyze → Secure
 ```
-people always disapploints me :(
+people always disappoints me :(
 
 
 
